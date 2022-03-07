@@ -9,11 +9,11 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
+            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",ASENA;;;eyJjbGllbnRJRCI6IjB1eGdIMXkyUmhNOWowSHVyQWpNemc9PSIsInNlcnZlclRva2VuIjoiMUA3MVVOc3NmdXVvTS84V0RMcnlJWElHVjZ6Ymk4dUU1eFRodk9Td3BrZkI3TkV5OVBYQmJBbjRLcnY1U09wYWI3cWk5YkhacnlrYk5xcWc9PSIsImNsaWVudFRva2VuIjoiMUVlaUpkcnNGb0YyZDhlaTVwUExodXBzVC9PU2ZqMnJVRW94QlhDU3dSST0iLCJlbmNLZXkiOiJHR1NXWEN1VGd6WHI3ZVFrTCtQS2hNWC9ySEsrN3FRRWRZOTBYamRZZC9zPSIsIm1hY0tleSI6Ik5KUFlMdHdBZUpzdnhRUFlUa0ZIcGxaU1F3Y1k0WERMTEtSQUxHaS8wUXM9In0=
             "required": true
         },
         "SUDO": {
-            "description": "Kullanıcılara tüm yetkileri verir. It gives all the privileges to the users. => 90xxx,0,90xxx,0,90xxx...",
+            "description": "Kullanıcılara tüm yetkileri verir. It gives all the privileges to the users. => 905379649077
             "required": false
         },
         "LANGUAGE": {
@@ -36,8 +36,8 @@
             "required": true,
             "value": "false"
         },
-        "HANDLERS": {
-            "description": "Komutlar için. For commands.",
+        "İŞLEYİCİLER" :
+            "description" : "Komutlar için. Komutlar için.",
             "required": true,
             "value": "^[.!;]"
         },
@@ -62,7 +62,7 @@
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Herokuda API Keyiniz. Heroku API Key. ===> https://t.me/herokuapikeyscraper",
+            "description": "Herokuda API Keyiniz. Heroku API Key. d41fcf26-4f80-4a16-9c5e-4ec6e5d261c3
             "required": true
         },
         "MUTE_MESSAGE": {
