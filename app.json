@@ -13,7 +13,7 @@
             "required": true
         },
         "SUDO": {
-            "description": "Kullanıcılara tüm yetkileri verir. It gives all the privileges to the users. => 90xxx,0,90xxx,0,90xxx...",
+            "description": "Kullanıcılara tüm yetkileri verir. It gives all the privileges to the users. => 905379649077
             "required": false
         },
         "LANGUAGE": {
@@ -62,7 +62,7 @@
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Herokuda API Keyiniz. Heroku API Key. ===> https://t.me/herokuapikeyscraper",
+            "description": "Herokuda API Keyiniz. Heroku API Key. d41fcf26-4f80-4a16-9c5e-4ec6e5d261c3
             "required": true
         },
         "MUTE_MESSAGE": {
