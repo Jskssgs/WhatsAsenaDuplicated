@@ -124,7 +124,7 @@ the user is responsible.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
-> [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
+> [WhatsAsena Wiki (Full Guide)](https://github.com/jskssgs/WhatsAsenaDuplicated/wiki) 
 
 ### The Hard Method (Not Recommend)
 ```js
